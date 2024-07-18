@@ -7,7 +7,7 @@ import {
   ResizablePanelGroup,
 } from "@/components/ui/resizable";
 
-import Navbar from "@/components/navbar";
+import Navbar from "@/components/Navbar";
 import CodeEditor from "@/components/code-editor";
 
 import "./App.css";
