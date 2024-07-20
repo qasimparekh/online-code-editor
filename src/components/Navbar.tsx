@@ -9,7 +9,7 @@ const Navbar = () => {
             <img src="/logo.png" width={45} height={45} alt='codepen logo' />
             <div className='flex flex-col'>
                 <h3 className='text-xl font-semibold text-white tracking-tighter'>Basic Website Demo</h3>
-                <p className='text-[0.85rem] font-medium text-gray-500 leading-tightest'>@hassan<span className='bg-green-500 pt-[-2] text-black px-[0.2rem] font-medium rounded-sm text-[0.65rem] ml-2'>+ Follow</span></p>
+                <p className='text-[0.85rem] font-medium text-gray-500 leading-tightest'>@qasimparekh<span className='bg-green-500 pt-[-2] text-black px-[0.2rem] font-medium rounded-sm text-[0.65rem] ml-2'>+ Follow</span></p>
             </div>
         </div>
 
